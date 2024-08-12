@@ -17,7 +17,7 @@ Other: Microservices Architecture, Docker, ReactJS, NodeJS, Spring Boot, Large L
 Contact Information
 Phone: 6692974674
 Email: simplysowj@gmail.com
-LinkedIn: linkedin.com/in/sowjanya-bojja
-GitHub: github.com/simplysowj
+LinkedIn: [linkedin.com/in/sowjanya-bojja](https://www.linkedin.com/in/sowjanya-bojja/)
+GitHub:[ github.com/simplysowj](https://github.com/simplysowj/)
 Portfolio: [Personal Bot](https://personalbotpy-latestsowji.streamlit.app/) 
-Personal Website: simplysowj.github.io
+Personal Website:[ simplysowj.github.io](https://simplysowj.github.io/) 
