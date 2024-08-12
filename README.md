@@ -19,5 +19,5 @@ Phone: 6692974674
 Email: simplysowj@gmail.com
 LinkedIn: linkedin.com/in/sowjanya-bojja
 GitHub: github.com/simplysowj
-Portfolio: Personal Bot
+Portfolio: [Personal Bot](https://personalbotpy-latestsowji.streamlit.app/) 
 Personal Website: simplysowj.github.io
